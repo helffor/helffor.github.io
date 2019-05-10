@@ -56,7 +56,7 @@
   
    {
      
-        "title"    : "About",
+        "title"    : "",
         "category" : "",
         "tags"     : "",
         "url"      : "/about/",
@@ -78,7 +78,7 @@
   
    {
      
-        "title"    : "Helfforich Photography",
+        "title"    : "",
         "category" : "",
         "tags"     : "",
         "url"      : "/index.html",

@@ -42,8 +42,8 @@ blockquote {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
-  border-width: 4px;
+  margin: 300px auto;
+  border-width: 0px;
   border-color: white;
 }
   .post-avatar {
