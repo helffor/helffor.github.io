@@ -1,5 +1,5 @@
 # Site settings
-title: "MADness"
+title: "Helfforich Photography"
 description: A Template for Jekyll
 
 # Files
@@ -11,7 +11,7 @@ assets:
 logo: logo.png
 discus_shortname: MADness
 email: mad@ness.com
-url: "http://madforjekyll.github.io"
+url: "https://helffor.github.io"
 search: true
 share: true
 comments: true
