@@ -5636,7 +5636,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     overflow-x: hidden;
     float: right;
     color: white;
-    background-color: #513434;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 .navbar-nav>li>a {
@@ -5835,7 +5835,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:hover {
-  color: #dddddd;
+  color: #008989;
   background-color: transparent
 }
 
