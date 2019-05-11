@@ -32,7 +32,7 @@ layout: default
                 <div class="post-heading">
                     <h1 style="color: #acd578; text-shadow: 2px 2px rgba(0, 0, 0, 0.75); transition: color .4s;">{{ page.title }}</h1>
                     {% if page.subtitle %}
-                    
+                    <h2 class="subheading" style="text-shadow: 2px 2px rgba(0, 0, 0, 0.75); transition: color .4s;">{{ page.subtitle }}</h2>
                     {% endif %}
                     <span class="meta" style="text-shadow: 2px 2px rgba(0, 0, 0, 0.75); transition: color .4s;">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
 
