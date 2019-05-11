@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Cheatsheet
-subtitle: This is Markdown Cheatsheet for MAD4Jekyll
+subtitle: This is Markdown Cheatsheet for **MAD4Jekyll**, this Jekyll theme. Please check the raw content of this file for the markdown usage. This is a paragraph...
 date:       2015-11-25 12:00:00
 author:     "MADness"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
