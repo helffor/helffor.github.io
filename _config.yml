@@ -1,6 +1,6 @@
 # Site settings
 title: "Helfforich Photography"
-description: A Template for Jekyll
+description: Travel and Documentary
 
 # Files
 baseurl:
@@ -9,8 +9,8 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: MADness
-email: mad@ness.com
+discus_shortname: Helffor
+email: helffor@gmail.com
 url: "https://helffor.github.io"
 search: true
 share: true
@@ -24,10 +24,10 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   MADness
+  name:   Helfforich Photography
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    MAD for Jekyll
+  description:    
 
 # Social networking links used in footer. Update and remove as you like.
 #twitter_username: MAD4Jekyll
