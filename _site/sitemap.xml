@@ -5,7 +5,22 @@
     <url>
       <loc>http://localhost:4000/writing/markdown-cheatsheet/</loc>
       
-        <lastmod>2015-11-25T07:00:00-05:00</lastmod>
+        <lastmod>2018-04-17T08:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/writing/markdown-cheatsheet-copy/</loc>
+      
+        <lastmod>2018-04-17T08:00:00-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -20,7 +35,22 @@
     <url>
       <loc>http://localhost:4000/writing/multiple-galleries/</loc>
       
-        <lastmod>2015-11-23T07:00:00-05:00</lastmod>
+        <lastmod>2018-04-10T08:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/writing/multiple-galleries-copy/</loc>
+      
+        <lastmod>2018-04-10T08:00:00-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,7 +66,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +81,7 @@
     <url>
       <loc>http://localhost:4000/writing/category/cat01/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,7 +96,7 @@
     <url>
       <loc>http://localhost:4000/writing/category/cat02/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,7 +111,7 @@
     <url>
       <loc>http://localhost:4000/writing/category/cat03/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,7 +126,7 @@
     <url>
       <loc>http://localhost:4000/gallery/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -111,7 +141,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,7 +156,7 @@
     <url>
       <loc>http://localhost:4000/search/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,7 +171,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,7 +186,7 @@
     <url>
       <loc>http://localhost:4000/writing/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,7 +201,7 @@
     <url>
       <loc>http://localhost:4000/pages/search/search.json</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -188,7 +218,7 @@
     <url>
       <loc>http://localhost:4000/writing/tag/tag-name-one/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -203,7 +233,7 @@
     <url>
       <loc>http://localhost:4000/writing/tag/tag-name-two/</loc>
       
-        <lastmod>2019-05-10T22:50:08-04:00</lastmod>
+        <lastmod>2019-05-11T00:38:47-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
