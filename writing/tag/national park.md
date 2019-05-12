@@ -1,8 +1,8 @@
 ---
 layout: "writing_by_tag"
-title: "#alaska"
+title: "#national park"
 description: "tag archive"
-tag: "alaska"
-permalink: "/writing/tag/alaska/"
+tag: "national park"
+permalink: "/writing/tag/national park/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
